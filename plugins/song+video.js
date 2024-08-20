@@ -20,10 +20,15 @@ let desc = `
 🌟 *LAKA-MD SONG DOWNLOADER* 🌟
 
 *Title:* ${data.title}
+
 *Description:* ${data.description}
+
 *Time:* ${data.timestamp}
+
 *Ago:* ${data.ago}
+
 *Views:* ${data.views}
+
 
 💗 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙻𝙰𝙺𝙰-𝙾𝙵𝙲 💗
 `
